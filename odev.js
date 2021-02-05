@@ -3,7 +3,6 @@
 1. mycarDetails fonksiyonunu "GA12345 Toyota" ciktisini verecek sekilde duzenleyin.
 
 **/
-
 var car = {
   registrationNumber: "GA12345",
   brand: "Toyota",
